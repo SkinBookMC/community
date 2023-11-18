@@ -1,53 +1,15 @@
 name: "Issue Report"
-description: "Report a website or API issue"
+description: "Report an issue about SkinBook"
 title: "Issue Report: "
-labels: bug
+labels: ["bug"]
 body:
-  - type: checkboxes
-    id: type
-    attributes:
-      label: Issue Type
-      description: "Select the type of issue:"
-      options:
-        - label: "Website Issue"
-        - label: "API Issue"
-
   - type: textarea
     attributes:
       label: Describe the Issue
       description: |
         Please provide a clear and concise description of the issue you're facing.
-        For website issues, include the URL and steps to reproduce the problem.
-        For API issues, mention the endpoint and the behavior you're encountering.
       placeholder: |
-        Example:
-        - Website: On visiting the profile page, the layout is broken.
-        - API: When using GET /api/data, I receive a 500 error.
-    validations:
-      required: true
-
-  - type: textarea
-    attributes:
-      label: Steps to Reproduce
-      description: |
-        Outline the steps to reproduce the issue.
-        For website issues, mention the browser and any specific interactions.
-        For API issues, provide the necessary API calls and parameters.
-      placeholder: |
-        To reproduce this issue:
-        1. Go to '...'
-        2. Click on '....'
-        3. Scroll down to '....'
-        4. See error
-    validations:
-      required: true
-
-  - type: textarea
-    attributes:
-      label: Expected Behavior
-      description: "What did you expect to happen?"
-      placeholder: |
-        I expected to see...
+        This issue I'm running into...
     validations:
       required: true
 

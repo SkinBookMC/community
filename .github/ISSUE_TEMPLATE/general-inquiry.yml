@@ -1,0 +1,12 @@
+name: "General Inquiry"
+description: "Ask a question or seek information about SkinBook"
+title: "General Inquiry: "
+labels: ["question"]
+body:
+  - type: textarea
+    attributes:
+      label: Inquiry
+      description: "Ask any questions or seek information related to SkinBook."
+      placeholder: "I have a question about..."
+    validations:
+      required: true
