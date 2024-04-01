@@ -25,7 +25,7 @@ Unacceptable behaviors include, but are not limited to:
 
 ## Reporting Guidelines
 
-If you experience or witness unacceptable behavior, please report it by contacting the project maintainers at [contact@hs50.cc](mailto:contact@skinbook.net). All reports will be kept confidential.
+If you experience or witness unacceptable behavior, please report it by contacting the project maintainers at contact@skinbook.net. All reports will be kept confidential.
 
 ## Enforcement
 
