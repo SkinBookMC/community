@@ -6,7 +6,7 @@ Welcome to the SkinBook repository! This repository is dedicated to managing iss
 
 If you encounter any problems, bugs, or glitches while using the SkinBook website, we encourage you to report them using GitHub Issues. To report an issue:
 
-1. Go to the [Issues](https://github.com/skinbookmc/SkinBook/issues) section of this repository.
+1. Go to the [Issues](https://github.com/skinbookmc/community/issues) section of this repository.
 2. Click on the "New Issue" button.
 3. Choose the "Issue Report" issue template.
 4. Fill out the required information and provide as much detail as possible.
@@ -18,7 +18,7 @@ Our team will review your report and work towards resolving the issue promptly.
 
 If you have ideas for new features or improvements that you'd like to see in the SkinBook website, you can request them through GitHub Issues. To request a feature:
 
-1. Go to the [Issues](https://github.com/skinbookmc/SkinBook/issues) section of this repository.
+1. Go to the [Issues](https://github.com/skinbookmc/community/issues) section of this repository.
 2. Click on the "New Issue" button.
 3. Select the "Feature Request" template.
 4. Describe the feature you're suggesting and why you think it would enhance the SkinBook experience.
