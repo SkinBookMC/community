@@ -20,7 +20,7 @@ If you discover a security vulnerability in SkinBook, you can report it in one o
 
 ### Option 2: GitHub Security Advisories
 
-Alternatively, you can use the [GitHub Security Advisories](https://github.com/skinbookmc/SkinBook/security/advisories/new) to report vulnerabilities.
+Alternatively, you can use the [GitHub Security Advisories](https://github.com/skinbookmc/community/security/advisories/new) to report vulnerabilities.
 
 ## Handling of Security Issues
 
