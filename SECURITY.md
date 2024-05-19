@@ -10,7 +10,7 @@ If you discover a security vulnerability in SkinBook, you can report it in one o
    - Please avoid creating a public GitHub issue for the security vulnerability. Report it privately.
 
 2. **Submit Your Report:**
-   - Email: [contact@hs50.cc](mailto:contact@hs50.cc?subject=[Security]%20Vulnerability%20Report)
+   - Email: [contact@skinbook.net](mailto:contact@skinbook.net?subject=[Security]%20Vulnerability%20Report)
    - Subject: [Security] Description of the issue
    - Provide a detailed description of the vulnerability, including steps to reproduce and any additional context.
 
